@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/s/EDS-Commerce/EmqBCUWxOtpChpU_XiwE7DoBWYIzzd97TuuWCT1xlyBoHw?email=helix%40adobe.com&e=hUld72
+  /: https://drive.google.com/drive/folders/1L9Bo42JltqyBT9TMRMGjxauWX0VXKsAd
 
 folders:
   /products/: /products/default
